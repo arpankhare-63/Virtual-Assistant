@@ -1,0 +1,60 @@
+body{
+    /* background-color:#133e57; */
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column ;
+
+}
+#main_img{
+    border:none;
+    /* border-radius: 80%; */
+    width: 30vw;
+    height: 20vw;
+}
+#btn{
+    margin-top: 5em;
+    min-width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: row; */
+}
+#micsi{
+    background-color: #37506b;
+    color: white;
+    padding: 1em;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 2em;
+    width: 2em;
+    margin-right: 2em;
+}
+#spanbtn{
+    font-size: 20px ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: #61b6d7;
+}
+#miclistn{
+    width:10vw;
+    height: 10vw;
+    border:none;
+    border-radius: 70%;
+}
+#btn:hover{
+    /* background-color: ;
+    transition: all 0.5s;
+    cursor: pointer;
+    box-shadow:2px 2px 10px #c6e6e9,2px 2px 10px #304648 ;
+    letter-spacing:1px;
+    color: red;
+    border-radius: 10px;
+    height: 2em;
+    width: 2em; */
+    box-shadow:5px 2px 20px #c6e6e9,5px 2px 20px #304648 ;
+    letter-spacing:1px;
+
+}
