@@ -4,6 +4,20 @@ This is a basic of virtual assistant based on html,css and Js.
 
 This project is a basic voice assistant built using JavaScript, which leverages the **Speech Synthesis** and **Speech Recognition** APIs to allow interaction via voice commands. The assistant can respond to greetings, provide the current time, date, and open various websites based on your command.
 
+## 🤖 Virtual Assistant Dashboard
+
+![Virtual Assistant Preview](Virtual-Assistant.png)
+
+This dashboard showcases the core features and interactions of a **Virtual Assistant** system. It provides insights into:
+
+- User interactions and conversation flow
+- NLP-driven responses
+- Action triggers and intelligent suggestions
+- Clean, conversational UI layout
+
+Designed for modern digital interfaces, this assistant can be embedded in websites, apps, or dashboards to enhance user experience.
+
+
 ## Features
 - Greets the user based on the time of day.
 - Recognizes user voice commands using the Web Speech API.
