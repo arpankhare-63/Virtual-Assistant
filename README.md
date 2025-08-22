@@ -6,8 +6,11 @@ This project is a basic voice assistant built using JavaScript, which leverages 
 
 ## 🤖 Virtual Assistant Dashboard
 
-![Virtual Assistant Preview](Virtual-Assistant.png)("https://arpankhare-63.github.io/Virtual-Assistant/")
+click image below to view live project
+[![Virtual Assistant Preview](Virtual-Assistant.png)](https://arpankhare-63.github.io/Virtual-Assistant/)
 
+
+---
 This dashboard showcases the core features and interactions of a **Virtual Assistant** system. It provides insights into:
 
 - User interactions and conversation flow
